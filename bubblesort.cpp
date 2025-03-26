@@ -1,4 +1,3 @@
-//10 40 50 12 32
 //bubble sort
 #include<iostream>
 using namespace std;
